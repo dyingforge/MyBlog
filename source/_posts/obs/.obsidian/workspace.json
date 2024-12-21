@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "f300b712f141a4dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4337bf99ce2928c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbec6716e9aa27a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js/数据类型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据类型"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fd0a502ebad689d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c0c65b70140907e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5f01e6698434b2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e404e6be52a01449",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5147dca7742801cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3a55b9d060693571",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c86712fae0d33fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31bafa3b7709a22d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "move/Coin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Coin 的反向链接列表"
+            }
+          },
+          {
+            "id": "7b52b3e51664b65d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f51a2e775af51982",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "move/Coin.md"
+              },
+              "icon": "lucide-list",
+              "title": "Coin 的大纲"
+            }
+          },
+          {
+            "id": "46175f11a366b1ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "move/Coin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Coin 的出链列表"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bbec6716e9aa27a7",
+  "lastOpenFiles": [
+    "move/变量与方法的定义.md",
+    "markdowm/初级语法.md",
+    "move/常用设计模式.md",
+    "move/Coin.md",
+    "move/debug.md",
+    "move/Object.md",
+    "Pasted image 20240321214500.png",
+    "简单web了解/网页设计.md",
+    "Pasted image 20240425155926.png",
+    "Pasted image 20240425163616.png",
+    "RUST/数据类型.md",
+    "简单web了解/VUE/简介.md",
+    "Pasted image 20241215143921.png",
+    "区块链技术/智能农场操作.md",
+    "思考.md",
+    "walrus/开发者工具和API.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "区块链技术原理/第一课.md",
+    "walrus/warlus操作.md",
+    "js/数组方法.md",
+    "Pasted image 20241215135647.png",
+    "Pasted image 20241215135602.png",
+    "Pasted image 20241215135540.png",
+    "区块链技术/ETH-状态树.md",
+    "区块链技术/ETH-挖矿机制.md",
+    "区块链技术/ETH-权益证明.md",
+    "区块链技术/ETH-ghost协议.md",
+    "区块链技术/ETH-TheDAO.md",
+    "区块链技术/ETH-Beauty chain（美链）.md",
+    "区块链技术/智能合约.md",
+    "区块链技术/BTC-思考.md",
+    "区块链技术/BTC-问答.md",
+    "区块链技术/分叉.md",
+    "walrus/简介.md",
+    "区块链技术原理",
+    "Pasted image 20241130203153.png",
+    "Pasted image 20241130202507.png",
+    "Pasted image 20241130201550.png",
+    "walrus",
+    "move",
+    "git",
+    "RUST",
+    "简单web了解/VUE",
+    "js",
+    "简单web了解",
+    "密码学",
+    "区块链技术/智能合约"
+  ]
+}
