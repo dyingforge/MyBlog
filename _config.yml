@@ -102,3 +102,9 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+toc:
+  enable: true         # 启用目录生成功能
+  max_depth: 3         # 设置目录的最大深度（默认 3），即最多显示多少级标题
+  min_depth: 1         # 设置目录的最小深度（默认 1）
+  list_number: false   # 设置目录中的条目是否编号（默认 false）
